@@ -1,0 +1,20 @@
+.navigation {
+    text-align: center;
+}
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+}
+.image {
+    background-color: aqua;
+    width: 700px;
+    padding: 20px;
+    border: dashed 1px red;
+    text-align: center;
+    margin: auto;
+}
+p { 
+    width: 1000px; 
+}
